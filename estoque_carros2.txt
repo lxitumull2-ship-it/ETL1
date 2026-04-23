@@ -1,0 +1,10 @@
+Palio,28000,2008,Rodado
+Tracker,90000,2021,Impecável
+Duster,75000,2020,Ótimo
+Tucson,60000,2013,Bom
+Voyage,38000,2017,Conservado
+Siena,29000,2009,Regular
+Ka,33000,2012,Razoável
+Spin,65000,2015,Semi-novo
+EcoSport,58000,2016,Bom
+Strada,50000,2018,Excelente

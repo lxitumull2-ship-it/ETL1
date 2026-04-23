@@ -1,0 +1,10 @@
+Corolla,60000,2010,Excelente
+Fiesta,40000,2015,Semi-novo
+Civic,55000,2009,Usado
+Onix,70000,2020,Novo
+Gol,30000,2012,Bom
+HB20,45000,2018,Ótimo
+Uno,25000,2011,Razoável
+Cruze,80000,2019,Novo
+Sandero,35000,2014,Usado
+Polo,50000,2016,Semi-novo
